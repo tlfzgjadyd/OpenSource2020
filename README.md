@@ -43,11 +43,15 @@ public class BootSpringBootApplication {
 ```
 //코드블럭 사용하는 2번째 방식
 //이게 더 편하긴 할듯 근데 내가 여기에 태그써버릇해서 태그형태로 외우는게 편할려나
-//이 기호가 뭐냐면 물결표시랑 같이 있는애임
+//이 기호가 뭐냐면 물결표시랑 같이 있는 애임
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
 }
 ```
-
+* 글씨 강조1 *
+_ 이건 뭐지? _
+** 글씨를 bold체로 **
+__ 이것도 뭐지 __
+~~ cancelline ~~
