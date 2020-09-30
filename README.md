@@ -38,3 +38,16 @@ public class BootSpringBootApplication {
 }
 </code>
 </pre>
+
+<br/><br/>
+```
+//코드블럭 사용하는 2번째 방식
+//이게 더 편하긴 할듯 근데 내가 여기에 태그써버릇해서 태그형태로 외우는게 편할려나
+//이 기호가 뭐냐면 물결표시랑 같이 있는애임
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
+
