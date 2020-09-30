@@ -50,8 +50,8 @@ public class BootSpringBootApplication {
   }
 }
 ```
-* 글씨 강조1 *
-_ 이건 뭐지? _
-** 글씨를 bold체로 **
-__ 이것도 뭐지 __
-~~ cancelline ~~
+* 글씨 강조1 *<br/>
+_ 이건 뭐지? _<br/>
+** 글씨를 bold체로 ** <br/>
+__ 이것도 뭐지 __<br/>
+~~cancelline~~ <br>
