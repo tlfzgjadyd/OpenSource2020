@@ -57,4 +57,8 @@ public class BootSpringBootApplication {
 _사용 기호만 다를 뿐 기능은 바로 위에꺼랑 똑같음_<br/><br/>
 **글씨 강조2 : bold체로 바꾸기** <br/>
 __이것 역시 사용 기호만 다르고 역할은 같음__<br/><br/>
-~~글씨 강조3 :cancelline~~ <br>
+~~글씨 강조3 :cancelline~~ <br/><br/>
+
+이미지 삽입하기는 생략
+필요하게 될 경우 다시 가서 보고올것
+#[마크다운 사용법 보러가기](https://gist.github.com/ihoneymon/652be052a0727ad59601)
