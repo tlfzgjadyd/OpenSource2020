@@ -15,7 +15,7 @@
 * 이것은 최소 탭칸 이상<br/>
  * 들여쓰기 해야만 <br/>
     * 바뀌는 양식이 적용됨 <br/>
-          +그러므로 리스트 도중 내용 바뀔때 사용 <br/>
+          + 그러므로 리스트 도중 내용 바뀔때 사용 <br/>
 <hr/>
 
 링크실험<br/>
@@ -27,5 +27,14 @@
 > > > >쌓을 수 있을듯 <br/>
 > > > > > 근데 개수 도중에 줄어들면 반영이 안되네 개수 늘어나는것만 허용되는듯<br/>
 
-글자색 실험하기<br/>
-<label style="color:red">빨간색</label><br/>
+<pre>
+<code>
+//코드블럭 사용하기
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
