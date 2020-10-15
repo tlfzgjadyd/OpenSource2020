@@ -1,0 +1,8 @@
+<2가지 clone방식 연구>
+
+1. git clone -o 방식1 주소 : 이건 clone폴더명은 opensource2020인 대신
+			git remote했을때 나오는 이름은 방식1임
+
+2.  git clone 주소 [디렉터리명] : 다른 디렉터리 이름으로 clone
+		             opensource2020대신 hoho란 폴더로 바로생김
+			 git remote했을때 나오는 이름은 origin임
